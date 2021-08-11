@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andresfredes
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning pytest
+- 💞️ I’m looking to collaborate on any sort of file conversion tool e.g. pdf -> ppt
+- 📫 Contact me at andres.hector.fredes@gmail.com
