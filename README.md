@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andresfredes
 - 👀 I’m particularly interested in Python and D3.js
-- 🌱 I’m currently learning pytest
+- 🌱 I’m currently learning Steno
 - 💞️ I’m looking to collaborate on any sort of file conversion tool e.g. pdf -> ppt
 - 📫 Contact me at andres.hector.fredes@gmail.com
