@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andresfredes
-- 🦖💻 I run Bluefin-dx on a Framework 13
+- 🦖💻 I run Bluefin (Dakotaraptor) on a Framework 13
 - ⌨️ I use Colemak on a ZSA Voyager
 - 🔐 I’m particularly interested in security and privacy
 - ☁️ I'm learning all things cloud-native 
